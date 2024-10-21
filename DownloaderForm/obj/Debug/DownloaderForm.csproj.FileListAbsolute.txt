@@ -1,0 +1,10 @@
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\bin\Debug\DownloaderForm.exe.config
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\bin\Debug\DownloaderForm.exe
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\bin\Debug\DownloaderForm.pdb
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\obj\Debug\DownloaderForm.csproj.AssemblyReference.cache
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\obj\Debug\DownloaderForm.Properties.Resources.resources
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\obj\Debug\DownloaderForm.csproj.GenerateResource.cache
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\obj\Debug\DownloaderForm.csproj.CoreCompileInputs.cache
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\obj\Debug\DownloaderForm.exe
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\obj\Debug\DownloaderForm.pdb
+C:\Users\BSSLTD\Documents\GitHub\C#\DownloaderForm\DownloaderForm\obj\Debug\DownloaderForm.VideoDwonloader.resources
